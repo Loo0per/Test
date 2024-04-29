@@ -25,6 +25,7 @@ public class MathApp {
 			int factorial = m1.calfactorial(n);
 			System.out.println(n + "! = " + factorial);
 		}
+		System.out.println("HEllo world");
 			
 	}
 
